@@ -1,0 +1,13 @@
+<html> começa o código
+<head> cabeçalho
+<title>título do código
+<body> começa o corpo do código
+<h1,h2,h3...> título
+<p> parágrafo
+<div> divisória
+<strong> negrito
+<span> texto normal
+<hr> linha preta
+<ul> lista não ordenada
+<li> cada item da lista
+<img> imagem

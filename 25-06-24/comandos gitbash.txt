@@ -1,0 +1,12 @@
+git status - ver status
+git add . - adicionar arquivo
+git commit -m "_" - salva alterações feitas
+git push origin "nome_branch" - salva alterações na branch
+git checkout -b "nome_branch" - criar nova branch 
+git checkout "nome_branch"- transitar entre branchs
+git pull origin "nome_branch" - puxar arquivos de outra branch
+git branch --all - identificar as branchs
+
+Login:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
