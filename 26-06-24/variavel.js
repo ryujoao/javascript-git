@@ -1,4 +1,4 @@
-let mensagem = "olá wilma!";
+let mensagem = "olá ryu!";
 let nome; //cria uma váriavel indefinido
 let discilplina = null; //cria váriavel vazia
 let texto = "Este é um exemplo"; //cria uma váriavel com um valor
