@@ -1,5 +1,6 @@
 /*
 - Armazene a usa idade em uma constante;
+- Escreva
 */
 
 const idade = 5;
