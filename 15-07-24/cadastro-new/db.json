@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "nome": "Pedro Martes",
+      "email": "pedro_martes@hotmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Pedro Juan",
+      "email": "pedro_juan@hotmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "Renan Cabral",
+      "email": "renan_cabrail@hotmail.com"
+    },
+    {
+      "id": "4",
+      "nome": "João Victor",
+      "email": "joaoryu2008@gmail.com"
+    },
+    {
+      "id": "dcc3",
+      "nome": "Ryu",
+      "email": "joaoryu2008@hotmail.com"
+    },
+    {
+      "id": "5de8",
+      "nome": "Ryu",
+      "email": "joaoryu2008@hotmail.com"
+    },
+    {
+      "id": "c314",
+      "nome": "Ryu",
+      "email": "joaoryu2008@hotmail.com"
+    }
+  ]
+}
